@@ -1,0 +1,4 @@
+participant_id,condition,decision,timestamp,latency_ms
+p_sh2kvdz,B,Accept,2026-03-09T09:56:34.326Z,3559
+p_9ze9emh,A,Reject,2026-03-09T09:56:51.682Z,12155
+p_ogb0iwf,B,Accept,2026-03-25T14:02:48.432Z,30498

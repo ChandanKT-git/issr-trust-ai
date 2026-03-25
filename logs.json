@@ -1,0 +1,23 @@
+[
+  {
+    "participant_id": "p_sh2kvdz",
+    "condition": "B",
+    "decision": "Accept",
+    "timestamp": "2026-03-09T09:56:34.326Z",
+    "latency_ms": 3559
+  },
+  {
+    "participant_id": "p_9ze9emh",
+    "condition": "A",
+    "decision": "Reject",
+    "timestamp": "2026-03-09T09:56:51.682Z",
+    "latency_ms": 12155
+  },
+  {
+    "participant_id": "p_ogb0iwf",
+    "condition": "B",
+    "decision": "Accept",
+    "timestamp": "2026-03-25T14:02:48.432Z",
+    "latency_ms": 30498
+  }
+]
