@@ -2,3 +2,5 @@ participant_id,condition,decision,timestamp,latency_ms
 p_sh2kvdz,B,Accept,2026-03-09T09:56:34.326Z,3559
 p_9ze9emh,A,Reject,2026-03-09T09:56:51.682Z,12155
 p_ogb0iwf,B,Accept,2026-03-25T14:02:48.432Z,30498
+p_t6pyxyw,B,Accept,2026-03-25T14:55:57.427Z,704702
+p_dy21wzn,A,Accept,2026-03-25T14:56:11.929Z,2700
